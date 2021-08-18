@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript, TypeScript, React and Node
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on javascript projects
-- 📫 How to reach me ...
+- 💼 you can reach me at [email](mailto:zubairriaz78696@gmail.com) :)
 
 # Welcome! 
 
