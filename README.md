@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=zubairriaz&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
+https://github-readme-stats.vercel.app/api?username=zubairriaz&theme=synthwave&show_icons=true&count_private=true
+
