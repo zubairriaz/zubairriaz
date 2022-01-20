@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zubairriaz
 - 👀 I’m interested in Javascript, TypeScript, React and Node
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on javascript projects
 - 💼 you can reach me at [email](mailto:zubairriaz78696@gmail.com) :)
 
